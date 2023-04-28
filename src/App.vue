@@ -1,6 +1,10 @@
 <template>
   <nav>
     <router-link to="/">Home</router-link> |
+    <router-link to="/text-design-effect">Text Design</router-link> |
+    <router-link to="/anchor-Link-design-effect">Link Design</router-link> |
+    <router-link to="/button-design-effect">Button Design</router-link> |
+    <router-link to="/image-text-design">Image Text</router-link> |
     <router-link to="/about">About</router-link>
   </nav>
   <router-view/>
